@@ -1,0 +1,6 @@
+{
+  "name": "AuraDent 3D Dental Studio",
+  "description": "Premier modern dental clinic featuring gentle precision treatments, advanced 3D diagnostics, cosmetic dentistry, and personalized patient care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
